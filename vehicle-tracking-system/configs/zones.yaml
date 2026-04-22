@@ -1,0 +1,4 @@
+zones:
+  count_line:
+    start: [100, 300]
+    end: [900, 300]

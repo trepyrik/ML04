@@ -1,0 +1,6 @@
+model:
+  type: yolo
+  path: models/detectors/best_vehicle_detector.pt
+  conf: 0.25
+  iou: 0.45
+  imgsz: 640

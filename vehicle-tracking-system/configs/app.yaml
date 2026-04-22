@@ -1,0 +1,4 @@
+app:
+  name: vehicle-tracking-system
+  env: dev
+  log_level: INFO

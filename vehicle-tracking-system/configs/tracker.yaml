@@ -1,0 +1,5 @@
+tracker:
+  type: bytetrack
+  track_buffer: 30
+  match_threshold: 0.8
+  min_box_area: 10
