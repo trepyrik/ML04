@@ -1,4 +1,4 @@
-# 🚗 Vehicle Tracking System (Production-Ready Template)
+# Vehicle Tracking System (Production-Ready Template)
 
 A scalable backend template for building **real-time vehicle detection, tracking, and traffic analytics systems**.
 
@@ -6,7 +6,7 @@ This repository provides a **production-oriented architecture** for computer vis
 
 ---
 
-## 🧠 Purpose of This Project
+## Purpose of This Project
 
 This project is not just a demo — it is a **foundation for building real-world CV systems**.
 
@@ -20,14 +20,14 @@ It is designed to help:
 
 ---
 
-## ⚙️ What This Repository Provides
+## What This Repository Provides
 
-* 🧩 Modular project structure
-* 🌐 FastAPI backend
-* 🧠 CV pipeline abstraction (Detection → Tracking → Analytics)
-* 🗂 Config-driven architecture
-* 🧪 Basic test coverage
-* 🐳 Docker-ready setup
+*  Modular project structure
+* FastAPI backend
+* CV pipeline abstraction (Detection → Tracking → Analytics)
+* Config-driven architecture
+* Basic test coverage
+* Docker-ready setup
 
 ---
 
@@ -51,7 +51,7 @@ Each component is isolated and can be independently extended or replaced.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 app/
@@ -74,7 +74,7 @@ deployment/         # Docker / infra
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone repository
 
@@ -103,7 +103,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 pytest -q
@@ -120,7 +120,7 @@ pytest -q
 
 ---
 
-## 🧩 Design Principles
+## Design Principles
 
 * **Modularity** — each component is isolated
 * **Scalability** — ready for multi-camera systems
@@ -130,7 +130,7 @@ pytest -q
 
 ---
 
-## 🛣 Roadmap
+## Roadmap
 
 * [ ] Integrate YOLO-based detector
 * [ ] Add ByteTrack / DeepSORT tracking
@@ -142,7 +142,7 @@ pytest -q
 
 ---
 
-## 📊 Future Use Cases
+##  Future Use Cases
 
 * Smart city traffic monitoring
 * Road infrastructure analysis
@@ -151,7 +151,7 @@ pytest -q
 
 ---
 
-## 📌 Why This Project
+##  Why This Project
 
 Most CV repositories focus only on model training.
 
@@ -167,6 +167,6 @@ It demonstrates how to move from:
 
 ---
 
-## 📄 License
+##  License
 
 MIT
