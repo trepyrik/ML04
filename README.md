@@ -31,7 +31,7 @@ It is designed to help:
 
 ---
 
-## 🏗 Architecture Overview
+##  Architecture Overview
 
 ```text
 Video / Stream
@@ -111,7 +111,7 @@ pytest -q
 
 ---
 
-## 📡 API (MVP)
+##  API (MVP)
 
 | Method | Endpoint | Description      |
 | ------ | -------- | ---------------- |
